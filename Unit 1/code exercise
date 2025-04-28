@@ -1,1 +1,44 @@
+Code Challenge: The most boring website ever. (lesson 3)
+<!-- Place your HTML code below this comment. Happy coding! -->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> My portflio</title>
+    </head>
+    <body>
+        <h1>Introduction</h1>
+        <p>My name is JOE</p>
+    </body>
+</html>
+
+lesson 4
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Fun with Formatting in HTML</title>
+    </head>
+    <body>
+        <h1><b>Fun with Formatting in HTML!</b></h1></h1>
+        <p><b>Bold text</b> is often used for <u>emphasis</u></body>. It's important to note that italic text can add a subtle touch to your writing. Using <mark>marked text</mark></body> highlights key points, making them stand out.
+        <hr>
+    </body>
+    As you continue reading, you'll notice that combining these elements creates a visually engaging experience. Remember, the key to good formatting is to use these features <u>sparingly</u></html>, and meaningfully. Occasionally, <del>overusing</del> <u>appropriately using</u> these tags ensures the content remains clear and effective.
+</html>
+
+lesson 5
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Break and horizontal line</title>
+    </head>
+    <body>
+        <p><i><em>Joe Liu_portfolio website</em></i></p>
+        <br>
+        <p>I am a student from <b><u>Computer Science</u></b></p>
+        <hr>
+        <p>I am a <mark>high school student</mark> now and plan to study in <b><mark>Canada</mark></b> in the future. In my spare time, I like playing <del>games</del> chess and football
+    </body>
+
+
+</html>
 
