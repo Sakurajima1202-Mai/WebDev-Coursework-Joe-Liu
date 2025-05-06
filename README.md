@@ -1,3 +1,5 @@
 # WebDev-Coursework-Joe-Liu
-"Intro to Web Development" course
-The document includes exercises and projects for different units
+Name: Joe Liu
+Instructor: Mr. Gullo
+Course Authors: Mary Kiang, Atiyah Conry
+Date of Completion: 6th, May
