@@ -1,1 +1,16 @@
+Lesson 2
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>This text will appear in the browser tab.</title>
+    </head>
+    <body>
+        <h1>Kai's project</h1>
+        <p>Hi, my name is Kai, I live in Arizona. The 3 words that describe me are <mark>passionate, diverse and artistic</mark>.</p> 
+            I love to <u>draw</u>. It's a passion of mine. I like to go hiking and sit in nature with my sketchbook and draw. </p>I've won awards at school for my art. I would love to go to art school after high school and really explore what I can do artistically. With my art I love to show the beauty of nature. I am passionate about the environment 
+            and preserving our planet and its resources.
+            Last year I helped organize a rally to protest global warming and the effects rising surface temperatures are having on our land. We really need to pay more attention to how our actions are affecting the planet. I love the colors blue and green. They make me think of the earth and sky.</p></body
+    >
+</html>
+
 
