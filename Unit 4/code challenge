@@ -1,1 +1,34 @@
 
+This unit ask me to work on my client's self-introduction website
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <title>This text will appear in the browser tab.</title>
+    </head>
+    <body>
+        <h1> <p title="hope you can know me more">Kai's project</p></h1>
+    <img
+    src="https://vscodeedu.com/content/LGNj1OtUzPuWiDV9881pSjTSggtUe0z2leVOW5tz3Wg.png"
+    alt="My picture"
+    />
+        <p>Hi, my name is Kai, I live in Arizona. The 3 words that describe me are <mark>passionate, diverse and artistic</mark>.</p> 
+            I love <u>the nature</u>. Also, I am keen on <u>art</u>.</p>
+        <p><mark>Three activities that I love:</mark></p>
+        <li><em>Drawing</li>
+        <li>Hiking</li>
+        <li>Spending time in nature</em></li>
+    </ul>
+    <p> I love to <u>draw</u>. It's a passion of mine. I like to go hiking and sit in nature with my sketchbook and draw.</p>
+    
+    <p><mark>Things I want to achieve in the future:</mark></p>
+    <ol>
+        <li><em>Attend art school</li>
+        <li>Raise awareness about environmental issues</li>
+        <li>Create an art portfolio inspired by nature</em></li>
+    </ol>
+    <p>  I would love to go to art school after high school and really explore what I can do artistically. With my art I love to show the beauty of nature. I am passionate about the environment 
+        and preserving our planet and its resources.</p>
+    <p>    Last year I helped organize a rally to protest global warming and the effects rising surface temperatures are having on our land.</p>
+</html>
