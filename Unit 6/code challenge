@@ -1,1 +1,73 @@
 
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Kai's Website</title>
+        <style>
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            font-size: large;
+            color: black;
+        }
+
+        h1 {
+            color: red;
+            text-align: center;
+        }
+
+        ul, ol {
+            background-color: aquamarine;
+            text-align: center;
+        }
+
+        li {
+            color: blue;
+        }
+        .center-img {
+                        border-width: 10px;
+            border-style: solid;
+            border-color: blue;
+            border-radius: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 title="hope you can know me more">Kai's Project</h1>
+    <div class="center-img">
+        <img
+            src="https://vscodeedu.com/content/LGNj1OtUzPuWiDV9881pSjTSggtUe0z2leVOW5tz3Wg.png"
+            alt="Kai's website" width="500px" height="500px"
+        />
+    </div>
+
+    <p>Hi, my name is Kai, I live in Arizona. The 3 words that describe me are <mark>passionate, diverse and artistic</mark>.
+        I love <u>the nature</u>. Also, I am keen on <u>art</u>.
+    </p>
+
+    <p><mark>Three <span style="color:red; font-style:italic;"></span>activities that I love:</mark></p>
+    <ul>
+        <li><em>Drawing</em></li>
+        <li><em>Hiking</em></li>
+        <li><em>Spending time in nature</em></li>
+    </ul>
+
+    <p>I love to <u>draw</u>. It's a passion of mine. I like to go hiking and sit in nature with my sketchbook and draw.</p>
+
+    <p><mark><span style="color:red; font-style:italic;">Things</span>I want to achieve in the future:</mark></p>
+    <ol>
+        <li><em>Attend art school</em></li>
+        <li><em>Raise awareness about environmental issues</em></li>
+        <li><em>Create an art portfolio inspired by nature</em></li>
+    </ol>
+
+    <p>I would love to go to art school after high school and really explore what I can do artistically. With my art I love to show the beauty of nature. I am passionate about the environment 
+        and preserving our planet and its resources.
+    </p>
+
+    <p>Last year I helped organize a rally to protest global warming and the effects rising surface temperatures are having on our land.</p>
+    <a href="https://microsoft.com">Click here to see my favourate web!</a>
+
+</body>
+</html>
