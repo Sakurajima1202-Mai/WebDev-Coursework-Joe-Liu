@@ -1,0 +1,163 @@
+U8L1:
+CSS:
+div {
+        color:green;
+        background-color: yellow;
+ }
+HTML:
+<div>
+    <p><i>Protecting water</i> resources is everyone's responsibility. Saving water starts with me.
+         Let's build a green, environmentally friendly and beautiful homeland together!</u>.
+    </p>
+    </div>
+
+U8L2:
+CSS:
+div.ct1 {
+        color:green;
+        background-color: yellow;
+ }
+div.box1 {
+            width: 125px;
+            height: 25px;
+            padding: 20px;
+            border: 5px solid greenyellow;
+            margin: 10px;
+        }
+HMTL:
+<div.box1 style="position: sticky; top: 0;">
+        You are the hero of the Earth~</div.box1>
+
+    <h1 title="Protecting Water=Protecting the Earth">Saving Water!</h1>
+    <div.ct1>
+    <p><i>Protecting water</i> resources is everyone's responsibility. Saving water starts with me.
+         Let's build a green, environmentally friendly and beautiful homeland together!</u>.
+    </p>
+    </div.ct1>
+
+  U8L3:
+  HMTL:
+    <ol>
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px;">
+        <li><em><div style="background-color: lightblue;">Don't waste water resources.</div></em></li>
+        <hr>
+        <li><em> <div style="background-color: lightblue;">Recycle water</div></em></li>
+        <hr>
+        <li><em><div style="background-color: lightblue;">Actively promote in society </div></em></li>
+        <hr>
+        </div>
+    </ol>
+
+  U8L4:
+  CSS:
+   header {
+                text-align: center;
+                background-color: skyblue;
+                font-size: larger;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            }
+  HMTL:
+  <header>Saving Water!</header>
+
+
+  The whole code will be:
+  CSS:
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: black;
+}
+
+
+div.ct1 {
+        color:green;
+        background-color: yellow;
+ }
+div.box1 {
+            width: 125px;
+            height: 25px;
+            padding: 20px;
+            border: 5px solid greenyellow;
+            margin: 10px;
+        }
+
+            header {
+                text-align: center;
+                background-color: skyblue;
+                font-size: larger;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            }
+
+            .content {
+                background-color: lightgray;
+            }
+
+            footer {
+                background-color: lightcoral;
+            }
+
+ul, ol {
+    text-align: center;
+}
+
+li {
+    color: blue;
+}
+
+  HMTL:
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Protecting Water</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div.box1 style="position: sticky; top: 0;">
+        You are the hero of the Earth~</div.box1>
+
+    <header>Saving Water!</header>
+    <div.ct1>
+    <p><i>Protecting water</i> resources is everyone's responsibility. Saving water starts with me.
+         Let's build a green, environmentally friendly and beautiful homeland together!</u>.
+    </p>
+    </div.ct1>
+
+    <p><mark>Why water is so <span style="color:red;font-style: italic;">important</span>:</mark></p>
+    <ul>
+        <li><em>It is very important for human beings</em></li>
+        <hr>
+        <li><em>It is also very important for other creatures</em></li>
+        <hr>
+        <li><em>It should be the <span style="color:red;font-style: italic;"> most important thing</span> in the world</em></li>
+        <hr>
+    </ul>
+
+    <div><p>The water source is <u>limited and the circulation</u> is difficult. 
+        It has to go through countless hardships to reach every drop of water in our lives.</p></div>
+
+    <p><mark>What can we <span style="color:red; font-style:italic;">do</span> to make some changes on that:</mark></p>
+    <ol>
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px;">
+        <li><em><div style="background-color: lightblue;">Don't waste water resources.</div></em></li>
+        <hr>
+        <li><em> <div style="background-color: lightblue;">Recycle water</div></em></li>
+        <hr>
+        <li><em><div style="background-color: lightblue;">Actively promote in society </div></em></li>
+        <hr>
+        </div>
+    </ol>
+
+    <div><p>A drop of clear water, 
+     a thousand precious things, has endured wind and rain and purification before merging into our lives.
+    </p></div>
+
+    <p><mark>Let's protect water resource together!</mark></p>
+    <a href="https://www.unwater.org/">Click here to learn more!</a>
+
+</body>
+</html>
+
+
+
+  
