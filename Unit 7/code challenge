@@ -1,0 +1,66 @@
+CSS code:
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: black;
+}
+
+h1 {
+    background-color: blue;
+    text-align: center;
+}
+
+ul, ol {
+    text-align: center;
+}
+
+li {
+    color: blue;
+}
+
+HTML code:
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Protecting Water</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1 title="Protecting Water=Protecting the Earth">Saving Water!</h1>
+    <p><i>Protecting water</i> resources is everyone's responsibility. Saving water starts with me.
+         Let's build a green, environmentally friendly and beautiful homeland together!</u>.
+    </p>
+
+    <p><mark>Why water is so <span style="color:red;font-style: italic;">important</span>:</mark></p>
+    <ul>
+        <li><em>It is very important for human beings</em></li>
+        <hr>
+        <li><em>It is also very important for other creatures</em></li>
+        <hr>
+        <li><em>It should be the <span style="color:red;font-style: italic;"> most important thing</span> in the world</em></li>
+        <hr>
+    </ul>
+
+    <p>The water source is <u>limited and the circulation</u> is difficult. 
+        It has to go through countless hardships to reach every drop of water in our lives.</p>
+
+    <p><mark>What can we <span style="color:red; font-style:italic;">do</span> to make some changes on that:</mark></p>
+    <ol>
+        <li><em>Don't waste water resources.</em></li>
+        <hr>
+        <li><em>Recycle water</em></li>
+        <hr>
+        <li><em>Actively promote in society</em></li>
+        <hr>
+    </ol>
+
+    <p>A drop of clear water, 
+     a thousand precious things, has endured wind and rain and purification before merging into our lives.
+    </p>
+
+    <p><mark>Let's protect water resource together!</mark></p>
+    <a href="https://www.unwater.org/">Click here to learn more!</a>
+
+</body>
+</html>
