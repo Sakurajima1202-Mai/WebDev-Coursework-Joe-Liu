@@ -1,0 +1,135 @@
+U9L2:
+HTML:
+   <button onClick="good()">Click here</button>
+
+Java script:
+    function good() {
+        alert('welcome the website');
+    }
+    </script>
+
+U9L3:
+HTML:   
+    <p id="myText">Tring your best to save water!</p>
+    <button onClick="good()">Click here</button>
+    <script src="script.js"></script>
+Java script:
+      function good() {
+    let element = document.getElementById("myText");
+    element.innerText = ":)";
+
+The whole code:
+HTML:
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Protecting Water</title>
+    <link rel="stylesheet" href="style.css">
+    <script>
+    function good() {
+        alert('welcome the website');
+    }
+    </script>
+</head>
+
+<body>
+    <div class="box1" style="position: sticky; top: 0;">
+        You are the hero of the Earth~
+    </div>
+
+    <header>Saving Water!</header>
+
+    <div class="ct1">
+        <p><i>Protecting water</i> resources is everyone's responsibility. Saving water starts with me.
+        Let's build a green, environmentally friendly and beautiful homeland together!</p>
+    </div>
+
+    <p><mark>Why water is so <span style="color:red;font-style: italic;">important</span>:</mark></p>
+    <ul>
+        <li><em>It is very important for human beings</em></li>
+        <hr>
+        <li><em>It is also very important for other creatures</em></li>
+        <hr>
+        <li><em>It should be the <span style="color:red;font-style: italic;"> most important thing</span> in the world</em></li>
+        <hr>
+    </ul>
+
+    <div>
+        <p>The water source is <u>limited and the circulation</u> is difficult. 
+        It has to go through countless hardships to reach every drop of water in our lives.</p>
+    </div>
+
+    <p><mark>What can we <span style="color:red; font-style:italic;">do</span> to make some changes on that:</mark></p>
+
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px;">
+        <ol>
+            <li><em><div style="background-color: lightblue;">Don't waste water resources.</div></em></li>
+            <li><em><div style="background-color: lightblue;">Recycle water</div></em></li>
+            <li><em><div style="background-color: lightblue;">Actively promote in society </div></em></li>
+        </ol>
+    </div>
+
+    <div>
+        <p>A drop of clear water, 
+         a thousand precious things, has endured wind and rain and purification before merging into our lives.
+        </p>
+    </div>
+
+    <p><mark>Let's protect water resource together!</mark></p>
+    <a href="https://www.unwater.org/">Click here to learn more!</a>
+    <p id="myText">Tring your best to save water!</p>
+    <button onClick="good()">Click here</button>
+    <script src="script.js"></script>
+</body>
+</html>
+
+Java script:
+    function good() {
+    let element = document.getElementById("myText");
+    element.innerText = ":)";
+}
+
+CSS:
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: black;
+}
+
+
+
+div.ct1 {
+        color:green;
+        background-color: yellow;
+ }
+div.box1 {
+            width: 125px;
+            height: 25px;
+            padding: 20px;
+            border: 5px solid greenyellow;
+            margin: 10px;
+        }
+
+            header {
+                text-align: center;
+                background-color: skyblue;
+                font-size: larger;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            }
+
+            .content {
+                background-color: lightgray;
+            }
+
+            footer {
+                background-color: lightcoral;
+            }
+
+ul, ol {
+    text-align: center;
+}
+
+li {
+    color: blue;
+}
